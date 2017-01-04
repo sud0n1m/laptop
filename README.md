@@ -25,14 +25,14 @@ Install
 Download, review, then execute the script:
 
 ```sh
-curl --remote-name https://raw.githubusercontent.com/thoughtbot/laptop/master/mac
+curl --remote-name https://raw.githubusercontent.com/sud0n1m/laptop/master/mac
 less mac
 sh mac 2>&1 | tee ~/laptop.log
 ```
 
-Optionally, [install thoughtbot/dotfiles][dotfiles].
+Optionally, [install sud0n1m/dotfiles][dotfiles].
 
-[dotfiles]: https://github.com/thoughtbot/dotfiles#install
+[dotfiles]: https://github.com/sud0n1m/dotfiles#install
 
 Debugging
 ---------
